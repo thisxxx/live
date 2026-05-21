@@ -1,0 +1,6 @@
+{
+  "urls": [
+    { "name": "AAA", "url": "https://raw.githubusercontent.com/thisxxx/live/refs/heads/main/video.json" },
+    { "name": "BBB", "url": "https://raw.githubusercontent.com/thisxxx/live/refs/heads/main/vd2.json" }
+  ]
+}
